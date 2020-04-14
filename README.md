@@ -1,9 +1,23 @@
 # Offers
 Record the  Learning materials of Applying for Java development engineer
 
+### demo
+死锁</br>
+线程池</br>
+不安全集合类</br>
+volatile特性</br>
+线程安全单例模式</br>
+CAS应用</br>
+ABA问题</br>
+Semaphore</br>
+CountdownLatch</br>
+cyclicBarrier</br>
 
 ### 阿里巴巴java开发手册
 阿里官方发布
+
+### 1000道互联网大厂Java工程师面试题
+源码学院发布
 
 ### books
 #### 高并发
@@ -26,17 +40,7 @@ Record the  Learning materials of Applying for Java development engineer
 
 
 
-### demo
-死锁</br>
-线程池</br>
-不安全集合类</br>
-volatile特性</br>
-线程安全单例模式</br>
-CAS应用</br>
-ABA问题</br>
-Semaphore</br>
-CountdownLatch</br>
-cyclicBarrier
+
 
 
 
